@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  height: 100vh;
+  gap: 2em;
+  justify-content: center;
+  align-items: center;
+}
+
+body select {
+  display: flex;
+  font-size: 20px;
+  width: 10em;
+  height: 1.5em;
+}
